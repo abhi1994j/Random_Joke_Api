@@ -14,7 +14,6 @@ This is a simple Node.js API built using Express and Axios that fetches a random
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd random-jokes-api
-
-## 2. Clone the Repository
+git clone https://github.com/abhi1994j/Random_Joke_Api.git
+cd Random_Joke_Api
+node --watch index.js
