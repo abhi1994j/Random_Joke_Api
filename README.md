@@ -16,4 +16,5 @@ This is a simple Node.js API built using Express and Axios that fetches a random
 ```bash
 git clone https://github.com/abhi1994j/Random_Joke_Api.git
 cd Random_Joke_Api
+npm i express axios
 node --watch index.js
