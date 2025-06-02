@@ -18,3 +18,12 @@ git clone https://github.com/abhi1994j/Random_Joke_Api.git
 cd Random_Joke_Api
 npm i express axios
 node --watch index.js
+```
+### 2. Getting the data after hitting the api in postman
+
+``` 
+{
+  "setup": "Why didn't the skeleton go for prom?",
+  "punchline": "Because it had nobody."
+}
+```
